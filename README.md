@@ -364,8 +364,8 @@
 	- [ ] [31. Change of Basis; Image Compression](https://www.youtube.com/watch?v=0h43aV4aH7I) `0:50:13`
 	- [ ] [33. Left and Right Inverses; Pseudoinverse](https://www.youtube.com/watch?v=Go2aLo7ZOlU) `0:41:52`
 - [ ] [StatQuest: Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-	- [ ] [StatQuest: Histograms, Clearly Explained](https://www.youtube.com/watch?v=qBigTkBLU6g) `0:03:42`
-	- [ ] [StatQuest:  What is a statistical distribution?](https://www.youtube.com/watch?v=oI3hZJqXJuc) `0:05:14`
+	- [X] [StatQuest: Histograms, Clearly Explained](https://www.youtube.com/watch?v=qBigTkBLU6g) `0:03:42`
+	- [X] [StatQuest:  What is a statistical distribution?](https://www.youtube.com/watch?v=oI3hZJqXJuc) `0:05:14`
 	- [ ] [StatQuest: The Normal Distribution, Clearly Explained!!!](https://www.youtube.com/watch?v=rzFX5NWojp0) `0:05:12`
 	- [ ] [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU) `0:14:31`
 	- [ ] [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY) `0:14:22`
