@@ -129,7 +129,7 @@
 - [ ] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
 
 ### Be able to manipulate data with Numpy
-- [ ] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [X] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
 ### Be able to manipulate data with Pandas
