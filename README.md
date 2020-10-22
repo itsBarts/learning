@@ -86,8 +86,8 @@
 - [ ] [Youtube: Vincent Warmerdam: The profession of solving (the wrong problem) | PyData Amsterdam 2019](https://youtu.be/kYMfE9u-lMo)
 - [ ] [Youtube: Making Money from AI by Predicting Sales - Jay's Intro to AI Part 2](https://youtu.be/V4-lXSs3jrk)
 - [ ] [Youtube: How does YouTube recommend videos? - AI EXPLAINED!](https://www.youtube.com/watch?v=wDxTWp3KMMs) `0:33:53`
-- [ ] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
-- [ ] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
+- [X] [Youtube: How does Google Translate's AI work?](https://www.youtube.com/watch?v=sIoHFPGOY0I) `0:15:02`
+- [X] [Youtube: Data Science in Finance](https://www.youtube.com/watch?v=mbOkL39Uabs) `0:17:52`
 - [ ] [Youtube: The Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 	- [ ] [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8) `0:34:39`
 	- [ ] [Healed through A.I. | The Age of A.I.](https://www.youtube.com/watch?v=V5aZjsWM2wo) `0:39:55`
